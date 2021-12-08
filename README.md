@@ -12,9 +12,9 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
 
 - Les user stories avec critère(s) d’acceptation.
 
-- Les maquettes du site.
+- [Les maquettes du site](https://www.figma.com/file/dIYXN57QZ96PDFzYRFsryO/Learn%40Home?node-id=0%3A1)
 
-- Le tableau Kanban (Notion, Trello, or GitHub).
+- [Le tableau Kanban (GitHub)](https://github.com/users/Lob2018/projects/2)
 ## Couleurs de référence
 
 | Color             | Hex                                                                |
