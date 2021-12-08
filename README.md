@@ -8,9 +8,9 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
  - [Kanban](https://www.notion.so/openclassrooms/Dev4U-projet-Learn-Home-972828849f7947289c23756d323a6335)
 ## Livrables
 
-- Les diagrammes de cas d’usage.
+- [Les diagrammes de cas d’usage](https://github.com/Lob2018/Learn-Home/blob/main/UC.png)
 
-- Les user stories avec critère(s) d’acceptation.
+- [Les user stories avec critère(s) d’acceptation](https://github.com/Lob2018/Learn-Home/blob/main/Backlog.pdf)
 
 - [Les maquettes du site](https://www.figma.com/file/dIYXN57QZ96PDFzYRFsryO/Learn%40Home?node-id=0%3A1)
 
