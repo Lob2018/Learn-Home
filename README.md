@@ -28,6 +28,20 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
 | Color #4 (primary button)        | ![#7260d5](https://via.placeholder.com/10/7260d5?text=+) #7260d5 | 4.83 : 1             |
 | Color #5 (button)                | ![#64d9b3](https://via.placeholder.com/10/64d9b3?text=+) #64d9b3 | 7.62 : 1             |
 
+## Typo
+
+- Desktop :
+
+| Header                          | Title 1                         | Title 2               | Body highlight            | Body             |
+| ------------------------------- | ------------------------------- | --------------------- | ------------------------- | ---------------- |
+| Source Serif Pro Semi-bold 72px | Source Serif Pro Semi-bold 24px | Source Serif Pro 24px | Opens Sans Semi-bold 20px | Opens Sans  20px |
+
+- Mobile :
+
+| Header                          | Title 1                         | Title 2               | Body highlight            | Body             |
+| ------------------------------- | ------------------------------- | --------------------- | ------------------------- | ---------------- |
+| Source Serif Pro Semi-bold 40px | Source Serif Pro Semi-bold 20px | Source Serif Pro 20px | Opens Sans Semi-bold 16px | Opens Sans  16px |
+
 
 ## Auteur
 
