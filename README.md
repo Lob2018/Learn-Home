@@ -17,13 +17,15 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
 - [Le tableau Kanban (GitHub)](https://github.com/users/Lob2018/projects/2)
 ## Couleurs de référence
 
-| Color                     | Hex                                                              |
-| ------------------------- | ---------------------------------------------------------------- |
-| Color #1 (button)         | ![#f576a3](https://via.placeholder.com/10/f576a3?text=+) #f576a3 |
-| Color #2 (gradient)       | ![#4221d5](https://via.placeholder.com/10/4221d5?text=+) #4221d5 |
-| Color #3 (menu bar)       | ![#513cbb](https://via.placeholder.com/10/513cbb?text=+) #513cbb |
-| Color #4 (primary button) | ![#7260d5](https://via.placeholder.com/10/7260d5?text=+) #7260d5 |
-| Color #5 (button)         | ![#64d9b3](https://via.placeholder.com/10/64d9b3?text=+) #64d9b3 |
+| Color                         | Hex                                                              |
+| ----------------------------- | ---------------------------------------------------------------- |
+| Primary font color #1 #5      | ![#303030](https://via.placeholder.com/10/303030?text=+) #303030 |
+| Secondary font color #2 #3 #4 | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) #ffffff |
+| Color #1 (button)             | ![#f576a3](https://via.placeholder.com/10/f576a3?text=+) #f576a3 |
+| Color #2 (gradient)           | ![#4221d5](https://via.placeholder.com/10/4221d5?text=+) #4221d5 |
+| Color #3 (menu bar)           | ![#513cbb](https://via.placeholder.com/10/513cbb?text=+) #513cbb |
+| Color #4 (primary button)     | ![#7260d5](https://via.placeholder.com/10/7260d5?text=+) #7260d5 |
+| Color #5 (button)             | ![#64d9b3](https://via.placeholder.com/10/64d9b3?text=+) #64d9b3 |
 
 
 ## Auteur
