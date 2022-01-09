@@ -17,12 +17,13 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
 - [Le tableau Kanban (GitHub)](https://github.com/users/Lob2018/projects/2)
 ## Couleurs de référence
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Color                     | Hex                                                              |
+| ------------------------- | ---------------------------------------------------------------- |
+| Color #1 (button)         | ![#f576a3](https://via.placeholder.com/10/f576a3?text=+) #f576a3 |
+| Color #2 (gradient)       | ![#4221d5](https://via.placeholder.com/10/4221d5?text=+) #4221d5 |
+| Color #3 (menu bar)       | ![#513cbb](https://via.placeholder.com/10/513cbb?text=+) #513cbb |
+| Color #4 (primary button) | ![#7260d5](https://via.placeholder.com/10/7260d5?text=+) #7260d5 |
+| Color #5 (button)         | ![#64d9b3](https://via.placeholder.com/10/64d9b3?text=+) #64d9b3 |
 
 
 ## Auteur
