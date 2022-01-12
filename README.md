@@ -49,6 +49,7 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
 | ------------------------------- | ------------------------------- | --------------------- | ------------------------- | ---------------- |
 | Source Serif Pro Semi-bold 40px | Source Serif Pro Semi-bold 20px | Source Serif Pro 20px | Opens Sans Semi-bold 16px | Opens Sans  16px |
 
+- [Font Awesome v5 free](https://fontawesome.com/v5/cheatsheet)
 
 ## Auteur
 
