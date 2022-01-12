@@ -30,7 +30,7 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
 | Color #3 (menu bar)              | ![#513cbb](https://via.placeholder.com/10/513cbb?text=+) #513cbb | 7.74 : 1             |
 | Color #4 (primary button)        | ![#7260d5](https://via.placeholder.com/10/7260d5?text=+) #7260d5 | 4.83 : 1             |
 | Color #5 (button)                | ![#64d9b3](https://via.placeholder.com/10/64d9b3?text=+) #64d9b3 | 7.62 : 1             |
-| Color #6 (fieldset)              | ![#69778c](https://via.placeholder.com/10/69778c?text=+) #69778c | 4.55 : 1             |
+| Color #6 (placeholder)           | ![#69778c](https://via.placeholder.com/10/69778c?text=+) #69778c | 4.55 : 1             |
 
 ## Typo
 
