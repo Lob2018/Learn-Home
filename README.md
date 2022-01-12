@@ -30,6 +30,10 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
 
 ## Typo
 
+- [Logo font OTF (Arima with a SIL Open Font License)](https://www.fontsquirrel.com/fonts/arima?utm_source=fontsquirrel.com&utm_medium=matcherator_link&utm_campaign=arima)
+
+- Google Fonts links for Content Delivery Network : [Source Serif Pro](https://fonts.google.com/specimen/Source+Serif+Pro?query=Source+Serif+Pro), [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=Open+sans)
+
 - Desktop :
 
 | Header                          | Title 1                         | Title 2               | Body highlight            | Body             |
