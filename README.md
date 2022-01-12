@@ -1,6 +1,9 @@
 
 # Learn@Home
 
+[![alt logo Learn@Home](https://user.oc-static.com/upload/2020/08/16/15975912807474_Screen%20Shot%202020-08-16%20at%2017.19.38.png)](https://user.oc-static.com/upload/2020/08/16/15975912807474_Screen%20Shot%202020-08-16%20at%2017.19.38.png)
+
+
 Applcation en ligne, mettant en relation des enfants en difficultés scolaire, avec des bénévoles.
 ## Documents fournits
 
