@@ -13,7 +13,7 @@ Applcation en ligne, mettant en relation des enfants en difficultés scolaire, a
 
 - [Les diagrammes de cas d’usage](https://github.com/Lob2018/Learn-Home/blob/main/UC.png)
 
-- [Les user stories avec critère(s) d’acceptation](https://github.com/Lob2018/Learn-Home/blob/main/Backlog.pdf)
+- [Les user stories avec critère(s) d’acceptation](https://github.com/Lob2018/Learn-Home/blob/main/Backlog.pdf)   [(Wiki priorisation du backlog)](https://github.com/Lob2018/Learn-Home/wiki/Learn@Home)
 
 - [Les maquettes du site](https://www.figma.com/file/dIYXN57QZ96PDFzYRFsryO/Learn%40Home?node-id=0%3A1)
 
